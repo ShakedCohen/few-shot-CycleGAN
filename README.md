@@ -5,11 +5,12 @@ See report for more details.
 
 Code:
 
-Training Notebook
+### Training Notebook
 https://colab.research.google.com/drive/1V49FU2Pauee9NvjS4qhnNXFw4wUVEti_?usp=sharing
 
-Inference Notebook
+### Inference Notebook
 https://colab.research.google.com/drive/1H-CETjZltYqxgrzAA6SaUaV5bvKXj907?usp=sharing
+
 ----------
 The following Colab notebooks were forked from Robert A. Gonsalves as described in the paper, applying his
 idea in our problem domain, with revisions to his code and adaptation to our needs. This code is CC BY-SA
